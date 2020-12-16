@@ -1,5 +1,8 @@
-### Hi there 👋
+### Welcome! 
 
+My name is Ben Garrett, and I am a data scientist in Missoula, Montana. My interestes are in building machine learning systems and utilizing artificial intelligence to solve real world problems. I love trying to make meaning from data and here will will find some projects relevant to my life that attempt to enrich my understanding of the world.
+
+Enjoy!
 <!--
 **bimewok/BimEwok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
